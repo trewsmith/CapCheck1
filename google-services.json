@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77457348798",
+    "project_id": "capcheck-f964d",
+    "storage_bucket": "capcheck-f964d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77457348798:android:58e5c5f6f47ae55163a6ef",
+        "android_client_info": {
+          "package_name": "com.trewsmith.capcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk4nsScaqk6XtL1Jihx78OoMlEVrakII0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
